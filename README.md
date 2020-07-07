@@ -21,6 +21,8 @@ Her status için bir renk ataması yapmalısınız.
 - Validasyonlar için VeeValidate kütüphanesini araştırıp uygulamaya çalışmanızı istiyorum. Form field'ları boş ise validate etmeye çalışalım. 
 - Validasyon yapamayan arkadaşlar için ödevi yine kabul edeceğim. Ama artık bu tarz entegrasyonları yapabiliyor olmalısınız. Örnek dokümandaki kodları kendi projemize uygulayıp entegre etmeye çalışalım lütfen. 
 
+Kaynak: https://logaretm.github.io/vee-validate/#usage
+
 
 ![Ödev Görseli](https://i.ibb.co/JjGsCnf/ezgif-com-video-to-gif.gif)
 
@@ -28,6 +30,8 @@ Her status için bir renk ataması yapmalısınız.
 https://www.npmjs.com/package/bootstrap
 
 https://logaretm.github.io/vee-validate/
+
+https://logaretm.github.io/vee-validate/#usage
 
 ve Bu hafta yaptığımız örnekler....
 
