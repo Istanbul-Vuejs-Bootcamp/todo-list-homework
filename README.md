@@ -6,13 +6,13 @@ Bu haftaki ev ödevinizde VUE CLI ortamında component kullanarak bir todo list 
 # DETAYLAR
 - Bootstrap kütüphanesini dahil edip kullanmanızı istiyorum.  
 
--1 adet form componenti olmalı ve form componenti içerisinde title, description ve status form elemanlarını barındırmalı. Status değerlerimiz WAITING, IN PROGRESS ve COMPLETED
+- 1 adet form componenti olmalı ve form componenti içerisinde title, description ve status form elemanlarını barındırmalı. Status değerlerimiz WAITING, IN PROGRESS ve COMPLETED
 
--İlgili form edit ve yeni todo eklemede kullanılacak.
+- İlgili form edit ve yeni todo eklemede kullanılacak.
 
--Edit ve Yeni ekleme sırasında buton text'i ve rengi farklı olmalı
+- Edit ve Yeni ekleme sırasında buton text'i ve rengi farklı olmalı
 
--1 adet todo item componentimiz olmalı bu compenent todo detaylarını göstermeli ve bir edit butonu içermeli. Status tipine göre farklı renkte olmalı. 
+- 1 adet todo item componentimiz olmalı bu compenent todo detaylarını göstermeli ve bir edit butonu içermeli. Status tipine göre farklı renkte olmalı. 
 Her status için bir renk ataması yapmalısınız.
 
 - Her Status için bir selectbox ile filtre yapacağız. Filtreye göre seçilen todo itemlar ekranda belirecek. Diğerleri ekrandan kaldırılacak. Tümünü seçtiğimde tekrar tümü gelmeli.
