@@ -33,5 +33,5 @@ https://logaretm.github.io/vee-validate/
 
 https://logaretm.github.io/vee-validate/#usage
 
-ve Bu hafta yaptığımız örnekler....
+ve tüm yaptığımız örnekler....
 
