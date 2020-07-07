@@ -18,7 +18,8 @@ Her status için bir renk ataması yapmalısınız.
 - Her Status için bir selectbox ile filtre yapacağız. Filtreye göre seçilen todo itemlar ekranda belirecek. Diğerleri ekrandan kaldırılacak. Tümünü seçtiğimde tekrar tümü gelmeli.
 
 ## ARAŞTIRMA VE EK OLARAK
-- Validasyonlar için VeeValidate kütüphanesini araştırıp uygulamaya çalışmanızı istiyorum. Form field'ları boş ise validate etmeye çalışalım. Yapamayan arkadaşlar olursa kabul edeceğim. Validasyon yapmadan ödevi gönderebilirler. Bu kısmı en sona bırakabilirsiniz.
+- Validasyonlar için VeeValidate kütüphanesini araştırıp uygulamaya çalışmanızı istiyorum. Form field'ları boş ise validate etmeye çalışalım. 
+- Validasyon yapamayan arkadaşlar için ödevi yine kabul edeceğim. Ama artık bu tarz entegrasyonları yapabiliyor olmalısınız. Örnek dokümandaki kodları kendi projemize uygulayıp entegre etmeye çalışalım lütfen. 
 
 
 ![Ödev Görseli](https://i.ibb.co/JjGsCnf/ezgif-com-video-to-gif.gif)
